@@ -1,0 +1,22 @@
+{
+  "name": "intent-js",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Express intent in typescript",
+  "main": "index.js",
+  "scripts": {
+    "build": "pnpm -r build",
+    "test": "pnpm -r test"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devEngines": {
+    "packageManager": {
+      "name": "pnpm",
+      "version": "^11.0.8",
+      "onFail": "download"
+    }
+  },
+  "type": "module"
+}
