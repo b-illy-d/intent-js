@@ -2,8 +2,8 @@
 
 Each TODO is one git commit. This is the 10k ft plan; details get planned commit-by-commit.
 
-- [*] Establish shared TypeScript/package conventions for the workspace.
-- [ ] Implement `@intent-js/core` behavior status types and `behavior.*` declarations.
+- [x] Establish shared TypeScript/package conventions for the workspace.
+- [*] Implement `@intent-js/core` behavior status types and `behavior.*` declarations.
 - [ ] Implement `@intent-js/core` `claim(fn, metadata)` API.
 - [ ] Implement `@intent-js/test` classified test helper API.
 - [ ] Define config schema and implement `intent init`.
